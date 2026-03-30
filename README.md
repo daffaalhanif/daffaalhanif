@@ -1,7 +1,10 @@
 # Hi, I'm AL 👋
 
-AI Engineer in progress — I don't start with code, 
-I start with the problem, the user, and the impact.
+I don't start with code — I start with the problem, the user, and the impact.
+
+AI Engineer with a background in project and product management — 
+combining technical depth with product thinking to build solutions 
+that are not just functional, but meaningful.
 
 ---
 
@@ -10,9 +13,9 @@ I start with the problem, the user, and the impact.
 - 🎓 B.Sc. Information Systems — Telkom University Bandung
 - 🚀 AI Engineering — Purwadhika Digital Technology School
 - 💼 Ex Project Manager Intern at an AI Agency
-- 🎯 I build AI and data solutions with product thinking at the core —
+- 🎯 I build AI solutions with product thinking at the core — 
   every model, feature, and design decision starts with 
-  who uses it and why it matters
+  who uses it, why it matters, and what value it creates
 
 ---
 
@@ -39,12 +42,14 @@ I start with the problem, the user, and the impact.
 ## 📂 Featured Projects
 
 ### 🚲 [Bike Sharing Demand Prediction](https://github.com/daffaalhanif/bike-sharing-demand-prediction)
-Hourly bike rental demand forecasting using LightGBM with two-phase hyperparameter tuning (RandomizedSearch + BayesSearch).
+Hourly bike rental demand forecasting using LightGBM with two-phase 
+hyperparameter tuning (RandomizedSearch + BayesSearch).
 
 RMSE **64.50** (↓61% from baseline) · MAE **43.91** · R² **0.91**
 
 ### 💰 [Xpense Insight](https://github.com/daffaalhanif/personal-money-manager)
-CLI-based personal finance manager with transaction tracking, statistics, and data visualization.
+CLI-based personal finance manager with transaction tracking, 
+statistics, and data visualization.
 
 Python · MySQL · SQLAlchemy
 
