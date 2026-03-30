@@ -1,7 +1,7 @@
 # Hi, I'm AL 👋
 
-AI Engineer in progress — passionate about building data-driven solutions
-and AI systems that solve real-world problems.
+AI Engineer in progress — I don't start with code, 
+I start with the problem, the user, and the impact.
 
 ---
 
@@ -10,7 +10,9 @@ and AI systems that solve real-world problems.
 - 🎓 B.Sc. Information Systems — Telkom University Bandung
 - 🚀 AI Engineering — Purwadhika Digital Technology School
 - 💼 Ex Project Manager Intern at an AI Agency
-- 🎯 Focused on building end-to-end systems — from data analysis to practical machine learning models
+- 🎯 I build AI and data solutions with product thinking at the core —
+  every model, feature, and design decision starts with 
+  who uses it and why it matters
 
 ---
 
