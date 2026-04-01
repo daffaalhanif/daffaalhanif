@@ -10,7 +10,7 @@ that are not just functional, but meaningful.
 
 ## 🧠 About Me
 
-- 🎓 B.Sc. Information Systems — Telkom University Bandung
+- 🎓 B.Sc. in Information Systems (S.Kom.) — Telkom University
 - 🚀 AI Engineering — Purwadhika Digital Technology School
 - 💼 Ex Project Manager Intern at an AI Agency
 - 🎯 I build AI solutions with product thinking at the core — 
