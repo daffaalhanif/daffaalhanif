@@ -25,11 +25,12 @@ that are not just functional, but purposeful.
 - Python · SQL · MySQL
 
 **AI Engineering & Agentic Systems**
-- LangGraph · LangChain · ReAct Agents
-- RAG (Retrieval-Augmented Generation) · Vector Databases (Qdrant)
+- LangGraph (ReAct loops · Conditional routing · Multi-agent orchestration)
+- LangChain · RAG · Vector Databases (Qdrant)
 - Text-to-SQL · Prompt Engineering
 - Reranking (LLM-as-Reranker · FlashRank)
 - Langfuse (LLM Observability & Tracing)
+- Multimodal LLM (GPT-4o — image & PDF structured extraction)
 
 **Machine Learning**
 - Scikit-learn · LightGBM · XGBoost
@@ -37,6 +38,9 @@ that are not just functional, but purposeful.
 - Feature Engineering · Encoding · Pipeline
 - Hyperparameter Tuning (GridSearchCV · RandomizedSearchCV · BayesSearchCV)
 - Cross-Validation (TimeSeriesSplit)
+
+**Computer Vision** *(exploratory)*
+- YOLOv12 · EasyOCR · OpenCV
 
 **Backend & Deployment**
 - FastAPI · Streamlit · Docker
