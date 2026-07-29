@@ -56,7 +56,7 @@ that are not just functional, but purposeful.
 
 ## 📂 Featured Projects
 
-### 🔍 [Olist Insight Assistant](https://github.com/Purwadhika-AI-Engineering/Kelompok-1)
+### 🔍 [Olist Insight Agent]([https://github.com/Purwadhika-AI-Engineering/Kelompok-1](https://github.com/daffaalhanif/olist-insight-agent))
 Multi-agent AI analytics system that turns natural language questions 
 into automated data investigations for e-commerce business analysts — 
 combining quantitative (SQL) and qualitative (customer review) evidence 
